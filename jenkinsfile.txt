@@ -7,7 +7,7 @@ pipeline {
     }
 
     environment {
-        IMAGE_NAME = 'YOUR_DOCKERHUB_USERNAME/jenkins-docker-cicd'
+        IMAGE_NAME = 'sandhyam16/jenkins-docker-cicd'
     }
 
     stages {
